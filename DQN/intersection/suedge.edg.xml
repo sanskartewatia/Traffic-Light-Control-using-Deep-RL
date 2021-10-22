@@ -1,0 +1,13 @@
+<edges>
+<edge id="W2TL" from="W" to="TL" priority="-1" numLanes="2" speed="14"/>
+<edge id="TL2W" from="TL" to="W" priority="-1" numLanes="2" speed="14"/>
+
+<edge id="N2TL" from="N" to="TL" priority="-1" numLanes="2" speed="14"/>
+<edge id="TL2N" from="TL" to="N" priority="-1" numLanes="2" speed="14"/>
+
+<edge id="E2TL" from="E" to="TL" priority="-1" numLanes="2" speed="14"/>
+<edge id="TL2E" from="TL" to="E" priority="-1" numLanes="2" speed="14"/>
+
+<edge id="S2TL" from="S" to="TL" priority="-1" numLanes="2" speed="14"/>
+<edge id="TL2S" from="TL" to="S" priority="-1" numLanes="2" speed="14"/>
+</edges>
